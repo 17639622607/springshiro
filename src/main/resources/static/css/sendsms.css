@@ -1,0 +1,15 @@
+#menu-function {
+    width: 1099px;
+    height: 40px;
+}
+
+#group_book {
+    width: 500px;
+    height: 300px;
+    position: relative;
+    top: 200px;
+    left: 200px;
+    /* border-right: 1px solid red; */
+    border: 1px solid red;
+    display: none;
+}
